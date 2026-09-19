@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY_HERE"; 
+const apiKey = ac0dbf893f99468a48d4925b7e615615 
 const searchBtn = document.getElementById("searchBtn");
 const cityInput = document.getElementById("cityInput");
 const cityName = document.getElementById("cityName");
